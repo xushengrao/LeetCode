@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9001cb6-5aec-4252-9a4f-17e347eafdc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LC49.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,11 +131,22 @@
       <option name="presentableId" value="Default" />
       <updated>1611576370053</updated>
       <workItem from="1611576372485" duration="1105000" />
-      <workItem from="1611577634167" duration="14141000" />
+      <workItem from="1611577634167" duration="26813000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
