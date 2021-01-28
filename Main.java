@@ -1,8 +1,11 @@
 
 public class Main {
     public static void main(String[] args) {
-        Solution so = new Solution();
-        so.generateParenthesis(1);
+        char[][] board =
+                {{'a','b'}
+                };
+        LC79 so = new LC79();
+        so.exist(board, "ab");
     }
 }
 
