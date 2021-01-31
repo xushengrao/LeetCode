@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9001cb6-5aec-4252-9a4f-17e347eafdc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LC79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LC94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LC96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LC114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LC139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LC152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LC221.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LC236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LC238.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -119,7 +121,9 @@
       <updated>1611576370053</updated>
       <workItem from="1611576372485" duration="1105000" />
       <workItem from="1611577634167" duration="41045000" />
-      <workItem from="1611831302076" duration="2330000" />
+      <workItem from="1611831302076" duration="2428000" />
+      <workItem from="1612075416320" duration="1417000" />
+      <workItem from="1612084370133" duration="6387000" />
     </task>
     <servers />
   </component>
